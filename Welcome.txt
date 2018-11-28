@@ -1,2 +1,4 @@
 Print("Welcome!")
 Print('How do you do?')
+Print("What is that?")
+Print('How is your business?')
