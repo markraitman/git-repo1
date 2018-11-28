@@ -1,1 +1,2 @@
 Print("Welcome!")
+Print('How do you do?')
